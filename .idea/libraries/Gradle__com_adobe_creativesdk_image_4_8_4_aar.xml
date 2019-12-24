@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.adobe.creativesdk:image:4.8.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/image-4.8.4.aar/d4ba60d1c37922d0a158adfabd993684/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/image-4.8.4.aar/d4ba60d1c37922d0a158adfabd993684/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

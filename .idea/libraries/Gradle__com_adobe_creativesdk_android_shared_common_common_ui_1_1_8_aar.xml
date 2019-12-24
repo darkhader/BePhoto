@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.adobe.creativesdk.android.shared.common:common-ui:1.1.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/common-ui-1.1.8.aar/0c03b11ce739bb116196eceff130a7d9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/common-ui-1.1.8.aar/0c03b11ce739bb116196eceff130a7d9/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
